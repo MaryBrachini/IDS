@@ -43,7 +43,8 @@ esse aqui no copy, depois de você ter especificado qual pasta que da os arquivo
 ![image](https://github.com/MaryBrachini/IDS/assets/92119838/70c4ab5f-0f11-4415-862b-9f7a4e5018f1)
 e o comando do cmd tu ve aqui
 
-![Uploading image.png…]()
+![image](https://github.com/MaryBrachini/IDS/assets/92119838/32486903-ae12-4e16-b5a2-27faf328c939)
+
 
 https://github.com/HenriqueHyonemoto/Trabalho-Docker-IDS/blob/main/Dockerfile
 
